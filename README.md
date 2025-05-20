@@ -19,13 +19,13 @@
 
 ## 사용하기
 
-### 1. 확장 프로그램램 설치
+### 1. 확장 프로그램 설치
 
 - VS Code 좌측 사이드바에서 Extensions 탭을 클릭합니다.
 
 - Commit Buddy를 검색하여 Extension을 설치합니다.
 
-- (선택 사항) 설치 후 VS Code를 재시작합니다.
+- 설치 후 VS Code를 재시작합니다.
 
 <br>
 
