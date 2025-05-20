@@ -8,7 +8,7 @@ Commit Buddy는 AI를 활용하여 Git 변경사항을 분석하고 적절한 �
 - Conventional Commits 형식 지원 (feat, fix, docs, style 등)
 - Ollama 혹은 GPT 기반 로컬 LLM 모델 활용
 
-## 개발 중인 기능
+## 주요 기능
 
 - 커밋 메시지 포맷 커스터마이징
 - 팀 컨벤션 설정 기능
